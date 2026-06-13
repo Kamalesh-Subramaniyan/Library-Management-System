@@ -75,8 +75,4 @@ Library Management System
 ---
 
 
----
 
-## 📄 License
-
-This project is developed for learning and educational purposes.
