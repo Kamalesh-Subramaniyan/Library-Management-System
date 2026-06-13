@@ -8,7 +8,7 @@ The project uses file handling for storing and retrieving data and provides a si
 
 ---
 
-## ✨ Features
+## Features
 
 * Display available books
 * Display registered students
@@ -22,7 +22,7 @@ The project uses file handling for storing and retrieving data and provides a si
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Java
 * Object-Oriented Programming (OOP)
@@ -32,7 +32,7 @@ The project uses file handling for storing and retrieving data and provides a si
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Library Management System
@@ -49,7 +49,7 @@ Library Management System
 
 ---
 
-## 🔹 OOP Concepts Implemented
+## OOP Concepts Implemented
 
 * Classes and Objects
 * Inheritance
@@ -64,7 +64,7 @@ Library Management System
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 * Database integration using MySQL
 * User authentication and login system
@@ -74,9 +74,6 @@ Library Management System
 
 ---
 
-## 👨‍💻 Author
-
-**Kamalesh Subramaniyan**
 
 ---
 
