@@ -1,46 +1,85 @@
-# Semester-Project
-I have developed a Library Management System, using the all concepts of Object Oriented Programming in Java which were taught to us during the class and lab. The program is totally console based. The Library Management System includes functions display students, display books, issue library card, issue book, add book, return book, my account etc.
+# 📚 Library Management System
 
-The concepts used in this program:
+## Overview
 
-1- OOP [object-oriented programming]: All the basic OOP concepts from lab 1 till 3.
+Library Management System is a Java-based console application developed using Object-Oriented Programming (OOP) concepts. The system helps manage library operations such as maintaining student records, managing books, issuing library cards, issuing books, returning books, and viewing account information.
 
-2- Inheritance.
+The project uses file handling for storing and retrieving data and provides a simple menu-driven interface for users.
 
-3- Abstract class.
+---
 
-4- Encapsulation.
+## ✨ Features
 
-5- Constructors: default and other needed constructors.
+* Display available books
+* Display registered students
+* Issue library cards
+* Issue books to students
+* Return books
+* Add new books to the library
+* View account details
+* File-based data storage
+* Exception handling and input validation
 
-6- Interface: The use of abstract class to achieve abstraction however the purpose of both interface and abstract classes are same.
+---
 
-7- Static Data members and Methods.
+## 🛠 Technologies Used
 
-8- Composition.
+* Java
+* Object-Oriented Programming (OOP)
+* ArrayList Collections
+* File Handling
+* Exception Handling
 
-9-Non primitive type return from function.
+---
 
-10- Array list 
+## 📂 Project Structure
 
-11- File handling: (Book.txt, Student.txt)
+```text
+Library Management System
+├── Objectmodelpackage.java
+├── Book.java
+├── Books.java
+├── Library.java
+├── Student.java
+├── Institute.java
+├── RulesResultSet.java
+├── Books.txt
+└── Students.txt
+```
 
-12-Exceptions and Error Handling.
+---
 
+## 🔹 OOP Concepts Implemented
 
-Classes
+* Classes and Objects
+* Inheritance
+* Abstraction
+* Encapsulation
+* Constructors
+* Interfaces
+* Static Members and Methods
+* Composition
+* Collections (ArrayList)
+* Exception Handling
 
-•	Objectmodelpackage(main)
+---
 
-•	Book
+## 📌 Future Enhancements
 
-•	Books
+* Database integration using MySQL
+* User authentication and login system
+* Search and filter functionality
+* Fine calculation for overdue books
+* Graphical User Interface (GUI)
 
-•	RulesResultSet
+---
 
-•	Library(extends Institute class)
+## 👨‍💻 Author
 
-•	Student
+**Kamalesh Subramaniyan**
 
-•	Institute(abstract class)
+---
 
+## 📄 License
+
+This project is developed for learning and educational purposes.
